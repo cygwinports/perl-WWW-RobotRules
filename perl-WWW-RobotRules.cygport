@@ -1,0 +1,11 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-WWW-RobotRules"
+VERSION=6.02
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl robots.txt parser module"
+DESCRIPTION="This module parses /robots.txt files as specified in 'A Standard
+for Robot Exclusion'. Webmasters can use the /robots.txt file to forbid
+conforming robots from accessing parts of their web site."
